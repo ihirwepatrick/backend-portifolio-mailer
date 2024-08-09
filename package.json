@@ -9,10 +9,7 @@
     "nodemailer": "^6.9.13"
   },
   "scripts": {
-    "start": "node server.js",
-    "build": "echo 'No build script needed for backend'",
-    "test": "echo 'No test script defined' && exit 0",
-    "render-postbuild": "npm install"
+    "start": "node server.js"
   },
   "eslintConfig": {
     "extends": [
